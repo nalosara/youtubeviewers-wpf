@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\bin\Debug\net6.0\YouTubeViewers.Domain.deps.json
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\bin\Debug\net6.0\YouTubeViewers.Domain.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\bin\Debug\net6.0\YouTubeViewers.Domain.pdb
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\YouTubeViewers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\YouTubeViewers.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\YouTubeViewers.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\YouTubeViewers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\YouTubeViewers.Domain.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\refint\YouTubeViewers.Domain.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\YouTubeViewers.Domain.pdb
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.Domain\obj\Debug\net6.0\ref\YouTubeViewers.Domain.dll

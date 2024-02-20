@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\bin\Debug\net6.0\YouTubeViewers.EntityFramework.deps.json
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\bin\Debug\net6.0\YouTubeViewers.EntityFramework.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\bin\Debug\net6.0\YouTubeViewers.EntityFramework.pdb
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\bin\Debug\net6.0\YouTubeViewers.Domain.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\bin\Debug\net6.0\YouTubeViewers.Domain.pdb
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.AssemblyInfo.cs
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\refint\YouTubeViewers.EntityFramework.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.pdb
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\ref\YouTubeViewers.EntityFramework.dll
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\bin\Debug\net6.0\YouTubeViewers.EntityFramework.runtimeconfig.json
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.genruntimeconfig.cache
+C:\Users\user\source\repos\DemoApp\YouTubeViewers.EntityFramework\obj\Debug\net6.0\YouTubeViewers.EntityFramework.csproj.CopyComplete
